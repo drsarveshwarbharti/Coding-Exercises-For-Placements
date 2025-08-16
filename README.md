@@ -1,4 +1,4 @@
-# Coding-Exercises-For-Placements
+# Coding-Exercises-For-Placement-Preparation
 
 📘 **Placement Preparation Exercises**
 This repository is a curated collection of important coding exercises and previous placement questions designed to help students and professionals prepare for technical interviews, coding rounds, and aptitude tests. 

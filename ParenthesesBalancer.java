@@ -1,3 +1,4 @@
+//Parenthese Balance Checker
 /*The famous problem of parentheses balancing in a string is an implementation of the stack data structure. 
 The approach is to push opening parentheses into the stack as they occur but popping them each time a closing parenthesis comes. 
 If a closing parenthesis doesn't correspond to the closing of the most recent opening parenthesis, the string is not well-formed.*/

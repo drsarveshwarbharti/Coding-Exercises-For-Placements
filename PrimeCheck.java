@@ -1,3 +1,28 @@
+//Check if a Number is Prime
+/*To check if the number is prime means to check if it is divisible by any number other than 1 and itself. 
+A prime number can be nicely divisible by 1 or itself. 
+The algorithm used to check for primality is iterating in the range of 2 to the square root of the number. 
+This is because any factor larger than the square root would have already been found as a smaller factor. */
+
+/* For example, to check if 17 is prime, we iterate from 2 to the square root of 17 (approximately 4.12). 
+Since no numbers divide 17 evenly, it is prime. On the other hand, 18 is divisible by 2 and 3, so it is not prime. */
+
+/* Since we are only checking for divisibility against numbers up to the square root of n, 
+the time complexity is O(√n) which is much better than O(n) and gives time for checking divisibility for any number. */
+
+/*Explanation
+Why check up to √n?
+If n has a factor greater than √n, then the corresponding smaller factor would already have been found.
+Example: 18 → factors are (2, 9) and (3, 6). Both small factors (2, 3) are ≤ √18.
+
+Edge cases:
+Numbers ≤ 1 → Not prime.
+2 and 3 → Prime.
+
+Efficiency:
+Instead of checking all numbers up to n-1, we only check up to √n.
+Makes a big difference for large numbers. */
+
 public class PrimeCheck {
 
     // Method to check if a number is prime

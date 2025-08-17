@@ -6,6 +6,8 @@ Each exercise is structured with clear problem statements, well-documented solut
 
 Whether you are revising before an upcoming placement drive, practicing daily to sharpen your skills, or exploring common interview questions, this repository serves as a one-stop resource to strengthen your preparation and boost your confidence. 🚀
 
+#### Suggested Resource: https://prepinsta.com/
+
 🎯 Goals
 
 To provide a one-stop resource for practicing placement-related problems.

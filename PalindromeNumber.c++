@@ -40,5 +40,8 @@ int main() {
 }
 
 /*Output:
-Is 151 palindrome? The number is a Palindrome.
-Is 120 palindrome? The number is NOT a Palindrome. */
+Enter a number:151
+The number is a Palindrome.
+
+Enter a number:120
+The number is NOT a Palindrome. */

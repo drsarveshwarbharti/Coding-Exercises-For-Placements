@@ -38,3 +38,7 @@ int main() {
 
     return 0;
 }
+
+/*Output:
+Is 151 palindrome? The number is a Palindrome.
+Is 120 palindrome? The number is NOT a Palindrome. */
